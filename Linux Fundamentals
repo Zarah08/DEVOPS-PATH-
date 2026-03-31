@@ -28,3 +28,6 @@ ls /sbin/
 ls /lib/
 -lib means library it is a library and these libraries are used by the kernel 
 
+ls /boot/
+Basically helps the linux machine using bootings, restart, things it needs when stating or actions it needs to execute during the start of the machine.
+
