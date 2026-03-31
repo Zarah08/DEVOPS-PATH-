@@ -5,3 +5,5 @@ It is the heart of the computer and there are multiple operating systems such as
 -MacOS
 
 The main component of Linux operating system is the Linux Kernel 
+What does the Linux Kernel do?
+Interaction with hardware such as Process management, Memory management, Disk management and Network management is handeled through the Linux Kernel 
