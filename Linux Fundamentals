@@ -10,4 +10,5 @@ Interaction with hardware such as Process management, Memory management, Disk ma
 
 On top of the Linux kernel there are some layers; CLI -> System Libraries -> Kernel 
 
-Installed docker and ubuntu on mac
+Installed docker and ubuntu on mac using terminal 
+
