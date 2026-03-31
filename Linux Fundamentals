@@ -20,3 +20,5 @@ To open a Linux Kernel always run this: docker exec -it ubuntu-container /bin/ba
 if it says container is not open use this: docker start ubuntu-container
 docker exec -it ubuntu-container /bin/bash
 
+The command ls -ltr will list all folders in that directory 
+
