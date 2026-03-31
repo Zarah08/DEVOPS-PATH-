@@ -34,3 +34,12 @@ ls /boot/ - nothing will appear in the container element
 ls /bin/ 
 - stands for user binaries it is given to all users while sbin is given to admins 
 
+ls /usr/
+- is a major system directory in linux . It stores programs and software installed on the system.
+
+ls /srv/
+- stores server confugurations (has nothing in it)
+
+ls /opt/
+- when you want to install third party dependency just like homebrew for MacOS
+
