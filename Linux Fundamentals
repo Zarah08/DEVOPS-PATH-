@@ -9,3 +9,5 @@ What does the Linux Kernel do?
 Interaction with hardware such as Process management, Memory management, Disk management and Network management is handeled through the Linux Kernel 
 
 On top of the Linux kernel there are some layers; CLI -> System Libraries -> Kernel 
+
+Installed docker and ubuntu on mac
