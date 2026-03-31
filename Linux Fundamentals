@@ -15,3 +15,5 @@ Installed docker and ubuntu on mac using terminal
 Package managers help you to install or deploy, upgrade, delete or maintain a dependency eg python or java 
 We can use package managers to intsall or delete java, python from the linux machine 
 
+To open a Linux Kernel always run this: docker exec -it ubuntu-container /bin/bash
+
