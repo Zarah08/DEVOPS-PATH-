@@ -42,4 +42,10 @@ ls /srv/
 
 ls /opt/
 - when you want to install third party dependency just like homebrew for MacOS
+so basically you 
+1- cd opt
+2- mkdir custom-tool
+3- cd custom-tool/ 
+4- ls will list everything under my custom tools i.e third party dependencies 
+
 
