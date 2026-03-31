@@ -13,5 +13,5 @@ On top of the Linux kernel there are some layers; CLI -> System Libraries -> Ker
 Installed docker and ubuntu on mac using terminal 
 
 Package managers help you to install or deploy, upgrade, delete or maintain a dependency eg python or java 
-
+We can use paclage managers to intsall or delete java, python from the linux machine 
 
