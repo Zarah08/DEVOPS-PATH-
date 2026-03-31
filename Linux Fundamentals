@@ -22,3 +22,6 @@ docker exec -it ubuntu-container /bin/bash
 
 The command ls -ltr will list all folders in that directory 
 
+ls /sbin/ 
+- sbin means system binaries 
+
