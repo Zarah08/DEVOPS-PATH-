@@ -29,5 +29,8 @@ ls /lib/
 -lib means library it is a library and these libraries are used by the kernel 
 
 ls /boot/ - nothing will appear in the container element 
-Basically helps the linux machine using bootings, restart, things it needs when stating or actions it needs to execute during the start of the machine.
+- Basically helps the linux machine using bootings, restart, things it needs when stating or actions it needs to execute during the start of the machine.
+
+ls /bin/ 
+- stands for user binaries it is given to all users while sbin is given to admins 
 
