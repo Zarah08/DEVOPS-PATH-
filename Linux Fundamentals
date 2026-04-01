@@ -54,3 +54,10 @@ ls /mnt/
 
 ls /var/
 - used to store log files or third party libraries 
+
+ls /home/
+- this shows a list of all users to create a new user follow these steps 
+1- apt update
+2- apt install adduser
+3- adduser username 
+
