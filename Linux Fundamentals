@@ -48,4 +48,6 @@ so basically you
 3- cd custom-tool/ 
 4- ls will list everything under my custom tools i.e third party dependencies 
 
+ls /mnt/
+- mnt means mount 
 
