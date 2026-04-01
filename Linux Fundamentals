@@ -50,4 +50,7 @@ so basically you
 
 ls /mnt/
 - mnt means mount 
-- system admin have a task to add more space to the file system 
+- linux admin have a task to add more space to the file system 
+
+ls /var/
+- used to store log files 
