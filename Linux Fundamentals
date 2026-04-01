@@ -53,4 +53,4 @@ ls /mnt/
 - linux admin have a task to add more space to the file system 
 
 ls /var/
-- used to store log files 
+- used to store log files or third party libraries 
