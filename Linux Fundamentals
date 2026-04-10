@@ -102,6 +102,6 @@ cd .. - to go back
 mkdir - to create a folder in a directory 
 rmdir - to remove a directory 
 touch - create a file 
-
+ls - shows  list of files or folders in a directory 
 
 
