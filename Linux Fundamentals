@@ -61,5 +61,6 @@ ls /home/
 2- apt install adduser
 3- adduser username 
 
-Still on
+ls /run/
+- /run contains runtime information created while the system is running. These files usually disappear after a reboot.
 
