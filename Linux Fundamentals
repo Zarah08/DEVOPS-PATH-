@@ -93,4 +93,6 @@ To switch from root to user
 whoami command will prompt your username 
 logout will log out of the user and get you back to root 
 
+NB: What is the difference between useradd and adduser 
+
 
