@@ -100,6 +100,7 @@ while useradd is a quick way of creating a user, it does not ask for details and
 pwd - tells you your current working directory 
 cd .. - to go back
 mkdir - to create a file in a directory 
+rmdir - to remove a directory 
 
 
 
