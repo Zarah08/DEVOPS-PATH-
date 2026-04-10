@@ -64,3 +64,6 @@ ls /home/
 ls /run/
 - /run contains runtime information created while the system is running. These files usually disappear after a reboot.
 
+ls /etc/
+- one of the most important linux commands 
+
