@@ -82,4 +82,7 @@ To check user passwords
 To delete a user
 - userdel username 
 
+To check the list of all users 
+- cat /etc/passwd
+
 
