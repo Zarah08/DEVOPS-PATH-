@@ -98,6 +98,8 @@ Both commands do thesame thing but adduser creates a /home directory for the use
 while useradd is a quick way of creating a user, it does not ask for details and does not create the home directory 
 
 pwd - tells you your current working directory 
+cd .. - to go back
+mkdir - to create a file in a directory 
 
 
 
