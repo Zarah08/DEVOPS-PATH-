@@ -87,4 +87,7 @@ To delete a user
 To check the list of all users 
 - cat /etc/passwd
 
+To switch from root to user 
+- su - username eg su - zkari
+
 
