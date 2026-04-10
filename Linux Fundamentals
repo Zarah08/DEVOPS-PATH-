@@ -79,3 +79,7 @@ To set or change a password
 To check user passwords 
 - cat /etc/shadow
 
+To delete a user
+- userdel username 
+
+
