@@ -70,4 +70,6 @@ ls /etc/
 - It has a lot of system configuration files 
 
 TOPIC 2: USER MANAGEMENT IN LINUX 
+To create a user we use this command 
+- useradd username eg. useradd zkari 
 
