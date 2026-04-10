@@ -73,3 +73,6 @@ TOPIC 2: USER MANAGEMENT IN LINUX
 To create a user we use this command 
 - useradd username eg. useradd zkari 
 
+To set or change a password
+- passwd username
+
