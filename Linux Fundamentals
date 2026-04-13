@@ -104,4 +104,8 @@ rmdir - to remove a directory
 touch - create a file 
 ls - shows  list of files or folders in a directory 
 ls -ltr -  helps you know if its a file or a folder but folders are usually colored in blue/purple 
+rm -f filename - will delete a file 
+rm -r dirrectoryname - will remove a directory 
+
+To rename a directory we use the following command; mv oldname newname
 
