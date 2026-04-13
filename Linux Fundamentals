@@ -120,3 +120,6 @@ after writing press escape key and then :wq w is for save and q is for quit
 
 after that when you type cat filename it will print out the contents of your file 
 
+To navigate within a file first we;
+vim filename then switch to normal mode, to switch to normal mode 
+
