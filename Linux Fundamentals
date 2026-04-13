@@ -109,3 +109,8 @@ rm -r dirrectoryname - will remove a directory
 
 To rename a directory we use the following command; mv oldname newname
 
+How to write to a file in Linux
+we first download vim using - apt install vim
+
+VI editor (Vim has 3 modes)
+
