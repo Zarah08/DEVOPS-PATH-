@@ -113,4 +113,7 @@ How to write to a file in Linux
 we first download vim using - apt install vim
 
 VI editor (Vim has 3 modes)
+1- Normal mode (you cant do anything in this mode)
+2-Inset mode (you can write inside a file when you click on i)
+3- Command mode (you can save in this mode)
 
