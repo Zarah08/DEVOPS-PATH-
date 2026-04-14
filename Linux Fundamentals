@@ -126,3 +126,7 @@ vim filename then switch to normal mode, to switch to normal mode click 0 then :
 cat filename.txt will print everyhing out 
 tac filename.txt will print everything out in reverse 
 
+to write to a file we use 
+1- echo "content" > filename.txt (this will overrite current file)
+2- echo "content" > filename.txt (this will append new content to the bottom of existing file)
+
