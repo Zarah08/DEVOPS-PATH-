@@ -124,4 +124,5 @@ To navigate within a file first we;
 vim filename then switch to normal mode, to switch to normal mode click 0 then :index eg :0 will take you to the first line
 
 cat filename.txt will print everyhing out 
+tac filename.txt will print everything out in reverse 
 
