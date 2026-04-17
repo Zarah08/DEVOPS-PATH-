@@ -136,4 +136,5 @@ To switch to a user su - username
 
 To use two tabs simultaneously and have access in bothfirst 
 1- cmd + T to open the new tab 
-2- run 
+2- run docker exec -it ubuntu-container bash (both files will be in thesame container)
+3- 
