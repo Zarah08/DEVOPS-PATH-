@@ -133,3 +133,7 @@ to write to a file we use
 TOPIC 3:FILE PERMISSIONS IN LINUX 
 To create a user - adduser username 
 To switch to a user su - username 
+
+To use two tabs simultaneously and have access in bothfirst 
+1- cmd + T to open the new tab 
+2- run 
