@@ -135,6 +135,10 @@ to write to a file we use
 1- echo "content" > filename.txt (this will overrite current file)
 2- echo "content" > filename.txt (this will append new content to the bottom of existing file)
 
+VIM INSTALLATION 
+- apt update
+- apt install -y vim
+
 TOPIC 3:FILE PERMISSIONS IN LINUX 
 To create a user - adduser username 
 To switch to a user su - username 
