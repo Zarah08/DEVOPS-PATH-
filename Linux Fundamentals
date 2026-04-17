@@ -18,6 +18,11 @@ We can use package managers to intsall or delete java, python from the linux mac
 
 To open a Linux Kernel always run this: docker exec -it ubuntu-container /bin/bash
 
+In case it dosen't run:
+- Create the folder again on your Mac: mkdir -p /tmp/ubuntu-data
+- Then start the container: docker start ubuntu-container
+- Then enter it: docker exec -it ubuntu-container bash
+
 if it says container is not open use this: docker start ubuntu-container
 docker exec -it ubuntu-container /bin/bash
 
