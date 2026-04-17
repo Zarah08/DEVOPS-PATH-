@@ -148,3 +148,9 @@ To use two tabs simultaneously and have access in bothfirst
 2- run docker exec -it ubuntu-container bash (both files will be in thesame container)
 3- 
 The whole point of this whole thing was to show how linux comes with automatic file permissions.
+
+rw - rw - rw - 
+users - group - others 
+r stands for read 
+w stands for write 
+x stands for execute 
