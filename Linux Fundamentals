@@ -185,3 +185,5 @@ To continue a process, kill -CONT PID
 
 The difference between services and process is that services are different kind of processes that run in the background and start automatically when the system boots
 
+MONITORING
+
