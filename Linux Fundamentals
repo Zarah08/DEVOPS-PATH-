@@ -164,5 +164,5 @@ Sometimes we need to
 - Prioritize or deprioritize a process
 
 How to check Linux processes running on a Linux Server: 
-  We use the command (ps aux)
+We use the command (ps aux)
 If we want to include number of lines of processes we use (ps aux | nl)
