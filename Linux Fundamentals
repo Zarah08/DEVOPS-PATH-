@@ -183,4 +183,5 @@ kill -3 ia to get thread dumps expecially from java applicatios
 To temporary stop a process, kill -STOP PID
 To continue a process, kill -CONT PID
 
+The difference between services and process is that services are different kind of processes
 
