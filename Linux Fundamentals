@@ -190,3 +190,4 @@ MONITORING
 top - command shows realtime processes 
 htop - is basically top but with a prettier user interface 
 vmstat - reports system performance (when a system is very slow)
+free -m - if only memory information is needed  
