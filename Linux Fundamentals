@@ -187,6 +187,6 @@ The difference between services and process is that services are different kind 
 automatically when the system boots
 
 MONITORING
-top command shows realtime processes 
-htop is basically top but with a prettier user interface 
-
+top - command shows realtime processes 
+htop - is basically top but with a prettier user interface 
+vmstat - reports system performance 
