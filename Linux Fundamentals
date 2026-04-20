@@ -188,4 +188,5 @@ automatically when the system boots
 
 MONITORING
 top command shows realtime processes 
+htop is basically top but with a prettier user interface 
 
