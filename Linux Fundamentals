@@ -176,3 +176,6 @@ To kill a process we use the command " kill pID "
 Eg kill 002 
 It usually dosent remove it so we forcefully kill a process with the command - kill -9 pID
 
+What is the difference between kill and kill -9?
+
+
