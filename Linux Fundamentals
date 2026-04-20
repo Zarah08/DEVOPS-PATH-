@@ -168,4 +168,5 @@ We use the command (ps aux)
 If we want to include number of lines of processes we use (ps aux | nl)
 
 What is the difference between ps aux and ps -ef?
+ps aux shows memory utilization while ps -ef does not show memory utilization 
 
