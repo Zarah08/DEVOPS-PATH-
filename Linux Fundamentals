@@ -192,3 +192,4 @@ htop - is basically top but with a prettier user interface
 vmstat - reports system performance (when a system is very slow)
 free -m - if only memory information is needed (free memory and memory that is already used)
 free -h - to get memory information in bytes and megabytes
+df -h - for disk management
