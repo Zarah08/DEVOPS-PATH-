@@ -195,3 +195,4 @@ free -h - to get memory information in bytes and megabytes
 df -h - for disk management
 
 Memory Management
+CPU Management
