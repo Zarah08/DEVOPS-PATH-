@@ -10,4 +10,7 @@ It is the ability to manage and navigate different saved states of your files ov
 Previous version controls like CVS and SVN were centralized. GIT gained popularity quickly because it is a decentralized version control. 
 
 What are forks in distributed systems?
+creating an entire copy of an original source basically when you see a project on github you fork it first i.e add it to your own repo
+and then clone it then edit locally.
+a fork is just one thing becoming two separate things.
 
