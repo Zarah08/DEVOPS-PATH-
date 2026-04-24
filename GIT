@@ -6,3 +6,5 @@ Version is a snapshot of something at a specific point in time.
 
 What is Version Control?
 It is the ability to manage and navigate different saved states of your files over time.
+
+Previous version controls like CVS and SVN were centralized. GIT gained popularity quickly because it is a decentralized version control. 
