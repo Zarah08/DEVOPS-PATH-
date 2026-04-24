@@ -199,3 +199,4 @@ CPU Management
 Disk Management 
 
 TOPIC: DISK AND STORAGE MANAGEMENT 
+lsblk - lists blocks that are attached to an instance
