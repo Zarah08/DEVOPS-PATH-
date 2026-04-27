@@ -29,9 +29,18 @@ and then clone it then edit locally.
 a fork is just one thing becoming two separate things.
 
 Git has three main states that your files can reside in: 
-1- modified,
-2- staged,
-3- committed
+1- modified (Modified means that you have changed the file but have not committed it to your database yet.)
+2- staged (Staged means that you have marked a modified file in its current version to go into your next commit snapshot.)
+3- committed (Committed means that the data is safely stored in your local database.)
+
+
+
+
+
+
+
+
+
 
 
 
