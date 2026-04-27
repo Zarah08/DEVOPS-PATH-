@@ -14,6 +14,12 @@ Scott Chacon
 This material may be protected by copyright.
 
 Previous version controls like CVS and SVN were centralized. GIT gained popularity quickly because it is a decentralized version control. 
+CVC's - “The most obvious is the single point of failure that the centralized server represents.”
+
+Excerpt From
+Pro Git
+Scott Chacon
+This material may be protected by copyright.
 
 What are forks in distributed systems?
 creating an entire copy of an original source basically when you see a project on github you fork it first i.e add it to your own repo
