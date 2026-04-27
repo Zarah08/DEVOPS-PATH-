@@ -33,6 +33,12 @@ Git has three main states that your files can reside in:
 2- staged (Staged means that you have marked a modified file in its current version to go into your next commit snapshot.)
 3- committed (Committed means that the data is safely stored in your local database.)
 
+Getting a Git Repository - You typically obtain a Git repository in one of two ways:
+1- You can take a local directory that is currently not under version control, and turn it into a Git repository, or
+2- You can clone an existing Git repository from elsewhere.”
+
+
+
 
 
 
