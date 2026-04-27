@@ -28,3 +28,10 @@ creating an entire copy of an original source basically when you see a project o
 and then clone it then edit locally.
 a fork is just one thing becoming two separate things.
 
+Git has three main states that your files can reside in: 
+1- modified,
+2- staged,
+3- committed
+
+
+
