@@ -37,6 +37,8 @@ you need is git clone.
 
 GIT STATUS - The main tool you use to determine which files are in which state is the git status command.
 
+GIT ADD - This enables you to stage changes for a commit (although can be skipped).
+
 GIT COMMIT - The simplest way to commit is to type git commit.
 
 
