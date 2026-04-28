@@ -44,6 +44,10 @@ GIT COMMIT - The simplest way to commit is to type git commit.
 GIT LOG - After you have created several commits, or if you have cloned a repository with an existing commit history, you’ll probably want to look back to see what has happened.
 The most basic and powerful tool to do this is the git log command.
 
+GIT LOG STAT - if you want to see some abbreviated stats for each commit, you can use the --stat option.
+
+
+
 
 
 
