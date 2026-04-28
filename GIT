@@ -37,9 +37,13 @@ Getting a Git Repository - You typically obtain a Git repository in one of two w
 1- You can take a local directory that is currently not under version control, and turn it into a Git repository, or
 2- You can clone an existing Git repository from elsewhere.”
 
-GIT CLONE - If you want to get a copy of an existing Git repository — for example, a project you’d like to contribute to — the command you need is git clone.
+GIT CLONE - If you want to get a copy of an existing Git repository — for example, a project you’d like to contribute to — the command 
+you need is git clone.
 
 GIT STATUS - The main tool you use to determine which files are in which state is the git status command.
+
+GIT COMMIT - The simplest way to commit is to type git commit.
+
 
 
 
