@@ -8,11 +8,6 @@ What is Version Control?
 It is the ability to manage and navigate different saved states of your files over time.
 “Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later.”
 
-Excerpt From
-Pro Git
-Scott Chacon
-This material may be protected by copyright.
-
 Previous version controls like CVS and SVN were centralized. GIT gained popularity quickly because it is a decentralized version control. 
 CVC's - “The most obvious is the single point of failure that the centralized server represents.”
 
