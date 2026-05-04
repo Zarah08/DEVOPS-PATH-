@@ -48,6 +48,8 @@ GIT LOG STAT - if you want to see some abbreviated stats for each commit, you ca
 
 $ git commit --amend - for undoing things
 
+Unstaging a staged file - git status command 
+
 
 
 
