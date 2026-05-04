@@ -50,7 +50,12 @@ $ git commit --amend - for undoing things
 
 Unstaging a staged file - git status command 
 
-Remote repositories are versions of your project that are hosted on the Internet or network somewhere.”
+Remote repositories are versions of your project that are hosted on the Internet or network somewhere.
+
+To see which remote servers you have configured, you can run the git remote command.
+It lists the shortnames of each remote handle you’ve specified.
+
+
 
 
 
