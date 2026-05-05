@@ -58,6 +58,9 @@ It lists the shortnames of each remote handle you’ve specified.
 When you want to find the last commit for a specific function “$ git log -S function_name”
 
 “Branching means you diverge from the main line of development and continue to do work without messing with that main line.”
+“Some people refer to Git’s branching model as its “killer feature,”
+
+
 
 
 
