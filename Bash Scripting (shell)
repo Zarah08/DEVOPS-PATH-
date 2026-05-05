@@ -29,4 +29,4 @@ Before you start any shell scripting this is the first thing to do based onn bes
 # Example: ./aws_resource_list.sh us-east-1 ec2
 #############################################################################
 
-First step in a script is validation
+First step in a script is validation i.e check if the required number of arguments are passed
