@@ -55,7 +55,9 @@ Remote repositories are versions of your project that are hosted on the Internet
 To see which remote servers you have configured, you can run the git remote command.
 It lists the shortnames of each remote handle you’ve specified.
 
-When you want to find the last commit for a specific function 
+When you want to find the last commit for a specific function “$ git log -S function_name”
+
+
 
 
 
