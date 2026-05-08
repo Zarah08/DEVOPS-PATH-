@@ -50,3 +50,4 @@ Initially they were thesame thing
 scripting capabilities, and interactive improvements.
 
 To switch to insert mode press esc button and i
+To save and quit :wq!
