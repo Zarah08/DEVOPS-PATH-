@@ -30,3 +30,5 @@ Before you start any shell scripting this is the first thing to do based onn bes
 #############################################################################
 
 First step in a script is validation i.e check if the required number of arguments are passed
+
+Shell scripting is the process of automating day to day activities in linux
