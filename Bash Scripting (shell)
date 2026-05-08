@@ -49,3 +49,4 @@ Initially they were thesame thing
 /bin/sh is a POSIX-compliant Bourne shell used for portable system scripts, while /bin/bash is an enhanced shell with additional features like arrays, better
 scripting capabilities, and interactive improvements.
 
+To switch to insert mode press esc button and i
