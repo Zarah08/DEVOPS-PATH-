@@ -64,3 +64,5 @@ Chmod is divided into 3 categories:
 1- which user has access
 2- which group has access
 3- what are your permissions
+
+To grant access to everybody we use; chmod 777 filename.sh
