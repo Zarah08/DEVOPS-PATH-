@@ -53,3 +53,4 @@ To switch to insert mode press esc button and i
 To save and quit :wq!
 To quit without saving :q!
 cat command will print the content of the file
+To execute a file ./filename.sh or sh filename.sh
