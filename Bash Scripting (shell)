@@ -36,3 +36,7 @@ Shell scripting is the process of automating day to day activities in linux
 First create a shell file: touch file-name.sh (.sh is a shell extensionn just like .py for python)
 ls- gives a list of all directories or folders in a system 
 la -ltr - does thesame thing but with a timestamp
+
+when you vim file.sh assuming the file does not exist it gets created and it gets opened. 
+Touch vs Vim
+Touch is used in automations 
