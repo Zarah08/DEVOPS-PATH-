@@ -41,7 +41,7 @@ when you vim file.sh assuming the file does not exist it gets created and it get
 Touch vs Vim
 Touch is used in automations 
 When you switch to insert mode first thing you write is #! (shebang) then /bin and /bash or /dash or /sh or /ksh
-sooo #!/bin/bash
+sooo #!/bin/bash (It tells the operating system which interpreter should run the script.)
 
 What is the difference between /bin/bash and /bin/sh?
 Initially they were thesame thing 
