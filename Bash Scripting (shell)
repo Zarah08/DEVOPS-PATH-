@@ -40,3 +40,6 @@ la -ltr - does thesame thing but with a timestamp
 when you vim file.sh assuming the file does not exist it gets created and it gets opened. 
 Touch vs Vim
 Touch is used in automations 
+When you switch to insert mode first thing you write is #! (shebang) then /bin and /bash
+sooo #!/bin/bash
+
