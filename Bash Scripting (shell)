@@ -54,3 +54,7 @@ To save and quit :wq!
 To quit without saving :q!
 cat command will print the content of the file
 To execute a file ./filename.sh or sh filename.sh
+
+The main purpose of linux is security.
+Despite the fact that you created the file linux has to know who is allowed to execute a file,
+
