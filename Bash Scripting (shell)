@@ -72,3 +72,5 @@ But why 777, Linux used a formala called 4 2 1
 4 - read
 2 - write 
 1 - execute
+
+so the 7 means read, write and execute
