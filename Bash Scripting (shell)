@@ -52,3 +52,4 @@ scripting capabilities, and interactive improvements.
 To switch to insert mode press esc button and i
 To save and quit :wq!
 To quit without saving :q!
+cat command will print the content of the file
