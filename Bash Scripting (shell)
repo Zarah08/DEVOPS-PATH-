@@ -43,3 +43,6 @@ Touch is used in automations
 When you switch to insert mode first thing you write is #! (shebang) then /bin and /bash or /dash or /sh or /ksh
 sooo #!/bin/bash
 
+What is the difference between /bin/bash and /bin/sh?
+Initially they were thesame thing 
+
