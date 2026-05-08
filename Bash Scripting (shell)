@@ -45,4 +45,5 @@ sooo #!/bin/bash (It tells the operating system which interpreter should run the
 
 What is the difference between /bin/bash and /bin/sh?
 Initially they were thesame thing 
+/bin/sh is the original Bourne shell interface defined by the POSIX standard, while /bin/bash (the Bash) is an enhanced shell that adds many extra features.
 
