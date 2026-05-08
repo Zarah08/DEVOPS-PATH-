@@ -66,3 +66,9 @@ Chmod is divided into 3 categories:
 3- what are your permissions
 
 To grant access to everybody we use; chmod 777 filename.sh
+7 for me, 7 for my group, 7 for everyone 
+
+But why 777, Linux used a formala called 4 2 1 
+4 - read
+2 - write 
+1 - execute
