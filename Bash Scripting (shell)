@@ -74,3 +74,5 @@ But why 777, Linux used a formala called 4 2 1
 1 - execute
 
 so the 7 means read, write and execute
+
+Comments in bash scripting is done by starting with a #
