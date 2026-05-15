@@ -78,3 +78,9 @@ But why 777, Linux used a formala called 4 2 1
 so the 7 means read, write and execute
 
 Comments in bash scripting is done by starting with a #
+
+Purpose of Shell Scripting in Devops?
+A devops engineer performs the following tasks;
+-Infrastructure maintenance
+-Code maintenance (git and linux)
+-Configuration
