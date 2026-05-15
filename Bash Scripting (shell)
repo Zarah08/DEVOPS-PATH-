@@ -31,6 +31,8 @@ Before you start any shell scripting this is the first thing to do based onn bes
 
 First step in a script is validation i.e check if the required number of arguments are passed
 
+What is the purpose of shell scripting in DEVOPS?
+
 Shell scripting is the process of automating day to day activities in linux
 
 First create a shell file: touch file-name.sh (.sh is a shell extensionn just like .py for python)
