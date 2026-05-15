@@ -121,3 +121,7 @@ done
 Stores command output inside variables.
 eg; disk=$(df -h / | tail -1)
 echo $disk
+Used for:
+monitoring
+logs
+automation scripts
