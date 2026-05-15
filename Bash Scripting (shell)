@@ -125,3 +125,13 @@ Used for:
 monitoring
 logs
 automation scripts
+
+5️⃣ Functions
+Functions group reusable commands.
+Example:
+backup() {
+  echo "Starting backup..."
+  tar -czf backup.tar.gz /data
+}
+backup
+Useful in deployment scripts.
