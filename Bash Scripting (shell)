@@ -135,3 +135,14 @@ backup() {
 }
 backup
 Useful in deployment scripts.
+
+6️⃣ Script Arguments
+Scripts can accept inputs.
+Example:
+./deploy.sh production
+Script:
+echo "Deploying to $1"
+DevOps pipelines pass arguments like this.
+Used heavily in CI/CD systems like:
+Jenkins
+GitHub Actions
