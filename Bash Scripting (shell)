@@ -73,6 +73,7 @@ To grant access to everybody we use; chmod 777 filename.sh
 But why 777, Linux used a formala called 4 2 1 
 4 - read
 2 - write 
+
 1 - execute
 
 so the 7 means read, write and execute
@@ -89,3 +90,11 @@ Shell scripting is important in DevOps because it automates system administratio
 deploy and monitor infrastructure efficiently.
 
 There are 7 core concepts in Scripts
+1- Variables - they store values you want to reuse.
+EG; 
+  name="Zarah"
+  echo "Hello $name"
+Why DevOps uses it:
+store paths
+store environment variables
+store container names
