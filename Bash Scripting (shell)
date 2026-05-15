@@ -98,3 +98,14 @@ Why DevOps uses it:
 store paths
 store environment variables
 store container names
+
+2️⃣ If Statements (Conditionals)
+Used to make decisions in scripts.
+eg; if [ -f file.txt ]
+then
+  echo "File exists"
+
+DevOps use cases:
+check if a service is running
+check if a file exists
+check deployment success
