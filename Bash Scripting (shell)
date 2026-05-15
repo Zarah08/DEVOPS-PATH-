@@ -84,3 +84,6 @@ A devops engineer performs the following tasks;
 -Infrastructure maintenance
 -Code maintenance (git and linux)
 -Configuration management
+
+Shell scripting is important in DevOps because it automates system administration tasks, manages servers, runs CI/CD pipeline commands, and helps 
+deploy and monitor infrastructure efficiently.
