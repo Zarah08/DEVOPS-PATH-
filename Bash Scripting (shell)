@@ -146,3 +146,14 @@ DevOps pipelines pass arguments like this.
 Used heavily in CI/CD systems like:
 Jenkins
 GitHub Actions
+
+7️⃣ Exit Codes
+Programs return status codes.
+0 → success
+1+ → error
+Example:
+if [ $? -eq 0 ]
+then
+  echo "Command succeeded"
+fi
+DevOps pipelines rely on this to determine success/failure.
