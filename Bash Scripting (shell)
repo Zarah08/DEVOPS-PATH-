@@ -116,3 +116,8 @@ eg; for container in app db redis
 do
   docker restart $container
 done
+
+4️⃣ Command Substitution
+Stores command output inside variables.
+eg; disk=$(df -h / | tail -1)
+echo $disk
