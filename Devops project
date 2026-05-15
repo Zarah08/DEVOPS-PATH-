@@ -1,0 +1,11 @@
+DevOps Project 1: Automated Docker Deployment Script
+Goal
+
+Create a script that:
+
+Pulls latest code from Git
+Builds a Docker container
+Stops the old container
+Runs the new container
+
+This is similar to what happens in simple CI/CD pipelines.
