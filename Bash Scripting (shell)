@@ -109,3 +109,10 @@ DevOps use cases:
 check if a service is running
 check if a file exists
 check deployment success
+
+3️⃣ Loops
+Loops repeat commands.
+eg; for container in app db redis
+do
+  docker restart $container
+done
