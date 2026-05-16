@@ -1,2 +1,4 @@
 Docker is used to bundle 
 Docker is used to package and run applications in containers.
+
+A trigger is the simplest way to start a workflow
