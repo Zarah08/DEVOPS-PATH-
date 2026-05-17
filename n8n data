@@ -1,6 +1,9 @@
 Docker is used to bundle 
 Docker is used to package and run applications in containers.
 
+Docker is a platform that allows you to package applications and their dependencies into a standardized unit called a container. 
+These containers can run consistently across different environments whether its your local machine, a server or the cloud. 
+
 A trigger is the simplest way to start a workflow
 Webhook trigger 
 Form submission trigger
