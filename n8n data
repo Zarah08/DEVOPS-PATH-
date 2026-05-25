@@ -16,4 +16,12 @@ Trigger -> onFormSubmission
 
 Testing and production URL 
 
-A collection of automation workflows built with n8n as part of my DevOps and automation learning journey. These workflows demonstrate real-world use cases using Google Sheets, Gmail, conditional logic, and form handling.
+A collection of automation workflows built with n8n as part of my DevOps and automation learning journey. 
+These workflows demonstrate real-world use cases using Google Sheets, Gmail, conditional logic, and form handling.
+
+Workflows Built:
+1- Form Submission Handler
+Captures form submissions, checks if the applicant owns a laptop using an IF node, sends a tailored email response, appends their data to a Google Sheet, and updates their status automatically.
+2-Experience Level Email Router
+Reads applicant data from Google Sheet, uses a Switch node to route by experience level (Beginner, Intermediate, Advanced), sends a
+customised email to each group, then updates their row in the sheet to reflect email was sent.
