@@ -28,3 +28,6 @@ customised email to each group, then updates their row in the sheet to reflect e
 
 Tools and Nodes Used:
 n8n, Google Sheets, Gmail, IF node, Switch node, Form trigger, Schedule trigger, Update row, Append row
+
+Skills Demonstrated:
+Workflow automation, conditional logic, data routing, Google Sheets integration, email automation, Git version control
