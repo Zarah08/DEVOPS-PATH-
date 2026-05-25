@@ -15,3 +15,5 @@ Triggers
 Trigger -> onFormSubmission
 
 Testing and production URL 
+
+A collection of automation workflows built with n8n as part of my DevOps and automation learning journey. These workflows demonstrate real-world use cases using Google Sheets, Gmail, conditional logic, and form handling.
