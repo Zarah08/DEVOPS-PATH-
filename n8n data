@@ -25,3 +25,6 @@ Captures form submissions, checks if the applicant owns a laptop using an IF nod
 2-Experience Level Email Router
 Reads applicant data from Google Sheet, uses a Switch node to route by experience level (Beginner, Intermediate, Advanced), sends a
 customised email to each group, then updates their row in the sheet to reflect email was sent.
+
+Tools and Nodes Used:
+n8n, Google Sheets, Gmail, IF node, Switch node, Form trigger, Schedule trigger, Update row, Append row
